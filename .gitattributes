@@ -1,0 +1,2 @@
+/docs/*.html linguist-vendored
+*.html linguist-detectable=false
